@@ -1,4 +1,4 @@
 # invie
 Las guitarras más locas
 
-http://AlejandraRiva.github.com/invie-github/
+https://github.com/AlejandraRivas/invie-github.git
